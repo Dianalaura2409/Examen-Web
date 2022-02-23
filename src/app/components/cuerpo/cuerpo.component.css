@@ -1,0 +1,49 @@
+.marco{
+    width: 1000px;
+    height:1000px;
+    background-color: rgb(184, 156, 211);
+    margin: auto;
+    border-radius: 50px;
+}
+
+.titulo{
+    text-align: center;
+ 
+}
+input{
+    width: 400px;
+    height: 60px;
+    font-size: 25px;
+}
+
+form{
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+button{
+    width: 400px;
+    height: 60px;
+    font-size: 25px;
+   
+}
+
+.boton{
+text-align: center;
+}
+
+.table1 {
+    table-layout: fixed;
+    width: 90%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    margin: auto;
+    
+  }
+
+  .table1 tr td {
+    border-collapse: collapse;
+    border: 3px solid purple;
+    text-align: center;
+    font-size: 20px;
+  }
